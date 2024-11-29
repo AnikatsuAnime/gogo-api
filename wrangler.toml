@@ -1,4 +1,4 @@
-name = "api"
+name = "nigga-worker"
 compatibility_date = "2024-08-12"
 main = "lib/api.js"
 minify = true
