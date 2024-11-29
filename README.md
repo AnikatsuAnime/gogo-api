@@ -1,3 +1,4 @@
+# doc
 # Anime API
 
 Modified api of [Gogoanime-api](https://github.com/riimuru/gogoanime-api)
@@ -12,7 +13,9 @@ git clone https://github.com/kirixen/gogo-api.git
 cd gogo-api
 npm install 
 ```
+
 start the server with the following command:
+
 ```
 npm start
 ```
